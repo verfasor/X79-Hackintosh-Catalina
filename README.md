@@ -33,6 +33,10 @@ EFI Folder (Clover) and config required for an X79 8-Core Xeon macOS High Catali
 
 You should modify the EFI (a lot) if your system specs are different. I use the settings for my motherboard. Huanan X79 is another motherboard similar to mine.  The CPU type 0x0a01 I set in Clover is only applicable to 8-core CPU models. You should edit that out if your CPU config is different. Also, note that I’ve manually set my system memory info (4x 8GB) within the SMBIOS in Clover. You should edit that as well.
 
+## Starter EFI 
+
+If things go south, use the clover settings attached in the **starter-EFI** folder. You can use it as a starter. But then you've to tweak settings a bit more.
+
 ## About Kexts
 
 * Catalina update broke my LAN. I use a WiFi adapter for the time being. I added Realtek WLAN kexts (RtWlanU & RtWlanU1827) to use with the Comfast USB Wi-Fi adapter. You should edit the config. according to your preferences.
