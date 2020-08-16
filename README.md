@@ -35,7 +35,7 @@ You should modify the EFI (a lot) if your system specs are different. I use the 
 
 ## Starter EFI 
 
-If things go south, use the clover settings attached in the [starter-EFI](https://github.com/mighildotcom/X79-Hackintosh-Catalina/tree/master/starter-EFI) folder. You can use it as a starter. But then you've to tweak settings a bit more.
+If things go south, use the clover settings attached in the [starter-EFI](https://github.com/m1qnet/X79-Hackintosh-Catalina/tree/master/starter-EFI) folder. You can use it as a starter. But then you've to tweak settings a bit more.
 
 ## About Kexts
 
