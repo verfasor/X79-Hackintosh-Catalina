@@ -59,7 +59,7 @@ You may proceed with the default settings for Ant Country X79 Basic. It may vary
 
 1. Install [Transmac](https://www.acutesystems.com/scrtm.htm) on a Windows machine. It has a 15-day trial period and works flawlessly flashing DMG files to USB.
 
-2. Download the latest [MacOS 10.15.2 with clover DMG file from here](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/) or other sources you come across Google SERP.
+2. Download the latest [macOS Big Sur 11.2.3 with clover DMG file from here](https://mirrors.dtops.cc/IOS/MacOS/) or other sources you come across Google SERP.
 
 3. Download the EFI folder from this repo.
 
