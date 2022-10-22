@@ -1,4 +1,4 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/mighil) [![捐赠](https://img.shields.io/badge/%E6%8D%90%E8%B5%A0-%E6%94%AF%E4%BB%98%E5%AE%9D-blue)](https://res.cloudinary.com/mighil/image/upload/v1578647638/donate-to-mighil.png) [![捐赠](https://img.shields.io/badge/%E6%8D%90%E8%B5%A0-%E5%BE%AE%E4%BF%A1-green)](https://res.cloudinary.com/mighil/image/upload/v1578647638/donate-to-mighil.png)
+<img src="https://img.shields.io/liberapay/receives/verfasor.svg?logo=liberapay">
 
 **Note: You're nothing but an a-hole if you sell EFI folder (config) that's readily available for free.**
 
@@ -86,6 +86,3 @@ You may proceed with the default settings for Ant Country X79 Basic. It may vary
 14. You may use [Karabiner-Elements](https://pqrs.org/osx/karabiner/) if the keyboard mappings (command and option) are acting up.
 
 All the best.
-
-### Support
-![Donate](https://res.cloudinary.com/mighil/image/upload/v1578647638/donate-to-mighil.png)
