@@ -3,7 +3,7 @@
 **Note: You're nothing but an a-hole if you sell EFI folder (config) that's readily available for free.**
 
 # Budget X79 Xeon Build
-EFI Folder (Clover) and config required for an X79 8-Core Xeon macOS High Catalina Hackintosh. 
+An example EFI Folder (Clover) and config that works with X79 8-Core Xeon macOS High Catalina Hackintosh. 
 
 ![Xeon E5-2650 X79 Hackintosh Rig](https://res.cloudinary.com/mighil/image/upload/v1578646938/hackintosh-x79.jpg)
 
