@@ -33,7 +33,7 @@ You should modify the EFI (a lot) if your system specs are different. I use the 
 
 ## Starter EFI 
 
-If things go south, use the clover settings attached in the [starter-EFI](https://github.com/m1qnet/X79-Hackintosh-Catalina/tree/master/starter-EFI) folder. You can use it as a starter. But then you've to tweak settings a bit more.
+Use the clover settings attached in the [starter-EFI](https://github.com/m1qnet/X79-Hackintosh-Catalina/tree/master/starter-EFI) folder if things go south. You can use it as a starter. But then you've to tweak settings a bit more.
 
 ## About Kexts
 
@@ -57,7 +57,7 @@ You may proceed with the default settings for Ant Country X79 Basic. It may vary
 
 1. Install [Transmac](https://www.acutesystems.com/scrtm.htm) on a Windows machine. It has a 15-day trial period and works flawlessly flashing DMG files to USB.
 
-2. Download the latest [MacOS 10.15.2 with clover DMG file from here]([https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/](https://storage.iamsjy.com/OS/macOS/macOS%20Catalina%2010.15.2%2019C57%20With%20Clover%205100%20.dmg) or other sources you come across Google SERP.
+2. Download the latest [MacOS 10.15.2 with clover DMG file from here](https://storage.iamsjy.com/OS/macOS/macOS%20Catalina%2010.15.2%2019C57%20With%20Clover%205100%20.dmg) or other sources you come across Google SERP.
 
 3. Download the EFI folder from this repo.
 
