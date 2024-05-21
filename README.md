@@ -1,5 +1,3 @@
-<img src="https://img.shields.io/liberapay/receives/verfasor.svg?logo=liberapay">
-
 **Note: You're nothing but an a-hole if you sell EFI folder (config) that's readily available for free.**
 
 # Budget X79 Xeon Build
