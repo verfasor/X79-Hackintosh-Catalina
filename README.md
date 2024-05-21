@@ -57,7 +57,7 @@ You may proceed with the default settings for Ant Country X79 Basic. It may vary
 
 1. Install [Transmac](https://www.acutesystems.com/scrtm.htm) on a Windows machine. It has a 15-day trial period and works flawlessly flashing DMG files to USB.
 
-2. Download the latest [MacOS 10.15.2 with clover DMG file from here](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/) or other sources you come across Google SERP.
+2. Download the latest [MacOS 10.15.2 with clover DMG file from here]([https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/](https://storage.iamsjy.com/OS/macOS/macOS%20Catalina%2010.15.2%2019C57%20With%20Clover%205100%20.dmg) or other sources you come across Google SERP.
 
 3. Download the EFI folder from this repo.
 
@@ -67,7 +67,7 @@ You may proceed with the default settings for Ant Country X79 Basic. It may vary
 
 6. Open Transmac. In the left pane, right-click the USB Drive and select Format Disk for Mac
 
-7. Again in the left pane, right-click the USB Drive and select Restore with Disk Image. Then select the DMG file I mentioned in (2). Flashing process will take a few minutes depending on the size of .dmg and speed/port of the USB drive.
+7. Again in the left pane, right-click the USB Drive and select Restore with Disk Image. Then select the DMG file I mentioned in (2). The flashing process will take a few minutes depending on the size of .dmg and the speed/port of the USB drive.
 
 8. Install [DiskGenius](https://www.diskgenius.com/).
 
